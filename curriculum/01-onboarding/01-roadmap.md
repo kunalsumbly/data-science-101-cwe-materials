@@ -12,7 +12,7 @@ In order to make sure that students are best prepared for this workshop, we sugg
 * Data Analysis
 * Computer Literacy
 
-Note: Students will need to bring a laptop with [Anaconda installed, using Python 2.7](https://www.continuum.io/downloads).
+Note: Students will need to bring a laptop with [Anaconda installed, using Python 3.6](https://www.continuum.io/downloads).
 
 ## Follow-up Recommendations
 

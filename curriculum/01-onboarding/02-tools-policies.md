@@ -7,7 +7,7 @@ Instead, General Assembly provides a core set of objectives for this workshop, a
 
 ## Required Tools
 
-- Bring a laptop with [Anaconda](https://www.continuum.io/downloads) installed. Scroll to your operating system version and click on the install button for ***Anaconda with Python 2.7***.
+- Bring a laptop with [Anaconda](https://www.continuum.io/downloads) installed. Scroll to your operating system version and click on the install button for ***Anaconda with Python 3.6***.
 - If you are using a PC, please install the [git for windows terminal](https://git-for-windows.github.io).
 
 ## Optional Tools
@@ -29,7 +29,7 @@ It is also our experience that students should have laptops with screens of at l
 
 #### Operating Systems Policy
 
-**Mac:** For those with Macs, you’ll need the Mac OS X 10.8.5 or higher, up to 10.11.4 (El Capitan). *This rules out some older MacBooks*
+**Mac:** For those with Macs, you’ll need the Mac OS X 10.8.5 or higher. *This rules out some older MacBooks*
 
 **PC/Linux:** For students on Windows, you’ll need to be using at least Microsoft Windows 8 or 10 (either 32 or 64 bit). Students are welcome to bring their own PC or Linux machines, but we **cannot guarantee tech support for these devices.**
 
