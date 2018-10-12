@@ -19,7 +19,7 @@ creator:
 
 ### STUDENT PRE-WORK
 *Before this lesson, you will need to:*
-- Bring a laptop with [Anaconda](https://www.continuum.io/downloads) installed. Scroll to your operating system version and click on the install button for ***Anaconda with Python 2.7***. We'll be using Python version 2.7 in this workshop.
+- Bring a laptop with [Anaconda](https://www.continuum.io/downloads) installed. Scroll to your operating system version and click on the install button for ***Anaconda with Python 3.6***. We'll be using Python version 3.6 in this workshop.
 - We will be using Jupyter Notebooks as our main IDE for the workshop. If you've downloaded Anaconda (with Win, Mac or Linux), you are ready to go! 
 
 ### INSTRUCTOR PREP
@@ -80,9 +80,9 @@ Before we dive in, let's hear a bit about you!
 
 - You're ready to take charge of your learning experience.
 - You're curious and excited about data science!
-- You've already installed [Anaconda with Python 2.7](https://www.continuum.io/downloads).
+- You've already installed [Anaconda with Python 3.6](https://www.continuum.io/downloads).
 
-> Instructor Note: Check that all laptops have a *Python 2.7* distribution (materials for this workshop have not been tested against Python 3.x).
+> Instructor Note: Check that all laptops have a *Python 3.6* distribution 
 
 
 #### Our Objectives
